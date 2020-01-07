@@ -125,10 +125,10 @@ in a new line after ExecuteCommand(data.message:sub(2)) to make it look like thi
 ### Documentation Pages
 > [Home](../README.md)
 
-> [ESX_RPChat Support/Fix](Docs/ESX-FIX.md)
+> [ESX_RPChat Support/Fix](./ESX-FIX.md)
 
-> [Supported Versions](Docs/SUPPORTED-VERSIONS.md)
+> [Supported Versions](./SUPPORTED-VERSIONS.md)
 
-> [Changelog & Updates](Docs/CHANGELOG.md)
+> [Changelog & Updates](./CHANGELOG.md)
 
-> [My Contact Options](Docs/CONTACT.md)
+> [My Contact Options](./CONTACT.md)
