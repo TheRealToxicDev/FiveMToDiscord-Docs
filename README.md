@@ -20,8 +20,8 @@ And Much More, See the [ScreenShots](https://github.com/TheRealToxicDev/FiveMToD
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Documentation Pages
-> [Install Help](Docs/INSTALLATION.md)
+> [Install Instructions](Docs/INSTALLATION.md)
 
-> [ESX_RPChat Help](Docs/ESX-FIX.md)
+> [ESX_RPChat Support/Fix](Docs/ESX-FIX.md)
 
-> [Contact Options](Docs/CONTACT.md)
+> [My Contact Options](Docs/CONTACT.md)
