@@ -13,3 +13,16 @@
 > - [x] Push Changes To v1.5.2
 
 > - [x] Name Change And Location Change
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### Documentation Pages
+> [Home](../README.md)
+
+> [Installation Instructions](.//INSTALLATION.md)
+
+> [Supported Versions](./SUPPORTED-VERSIONS.md)
+
+> [Changelog & Updates](./CHANGELOG.md)
+
+> [My Contact Options](./CONTACT.md)
