@@ -1,6 +1,9 @@
 # FiveMToDiscord-Docs
 Welcome to the FiveMToDiscord Logs Docs
 
+Here you can find useful information such as 
+Contact options, Useful Info, Install Instructions and More
+
 FiveM-Discord Bot allows you have to have server notifications such as:
 
 * Player Death Notifications
