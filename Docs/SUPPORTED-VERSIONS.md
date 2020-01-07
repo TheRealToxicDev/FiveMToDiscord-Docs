@@ -27,10 +27,10 @@ Make sure you provide the version you are using.
 ### Documentation Pages
 > [Home](../README.md)
 
-> [Installation Instructions](Docs/INSTALLATION.md)
+> [Installation Instructions](.//INSTALLATION.md)
 
-> [ESX_RPChat Support/Fix](Docs/ESX-FIX.md)
+> [ESX_RPChat Support/Fix](./ESX-FIX.md)
 
-> [Changelog & Updates](Docs/CHANGELOG.md)
+> [Changelog & Updates](./CHANGELOG.md)
 
-> [My Contact Options](Docs/CONTACT.md)
+> [My Contact Options](./CONTACT.md)
