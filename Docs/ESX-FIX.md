@@ -27,10 +27,10 @@
 ### Documentation Pages
 > [Home](../README.md)
 
-> [Installation Instructions](Docs/INSTALLATION.md)
+> [Installation Instructions](./INSTALLATION.md)
 
-> [Supported Versions](Docs/SUPPORTED-VERSIONS.md)
+> [Supported Versions](./SUPPORTED-VERSIONS.md)
 
-> [Changelog & Updates](Docs/CHANGELOG.md)
+> [Changelog & Updates](./CHANGELOG.md)
 
-> [My Contact Options](Docs/CONTACT.md)
+> [My Contact Options](./CONTACT.md)
