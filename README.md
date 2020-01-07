@@ -1,5 +1,7 @@
 # FiveMToDiscord-Docs
+
 Welcome to the FiveMToDiscord Logs Docs
+
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 Here you can find useful information such as 
