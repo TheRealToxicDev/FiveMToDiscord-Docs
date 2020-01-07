@@ -109,3 +109,16 @@ in a new line after ExecuteCommand(data.message:sub(2)) to make it look like thi
       TriggerServerEvent('_chat:messageEntered', GetPlayerName(id), { r, g, b }, data.message)
     end`
 * Save & Profit
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### Documentation Pages
+> [Home](../README.md)
+
+> [ESX_RPChat Support/Fix](Docs/ESX-FIX.md)
+
+> [Supported Versions](Docs/SUPPORTED-VERSIONS.md)
+
+> [Changelog & Updates](Docs/CHANGELOG.md)
+
+> [My Contact Options](Docs/CONTACT.md)
