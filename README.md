@@ -20,4 +20,4 @@ And Much More, See the [ScreenShots](https://github.com/TheRealToxicDev/FiveMToD
 ### Documentation Pages
 > [Installation Instructions](Docs/INSTALL.md)
 
-> [ESX_RPChat Fix](ESX-FIX.md)
+> [ESX_RPChat Fix](Docs/ESX-FIX.md)
