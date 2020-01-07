@@ -23,6 +23,6 @@
 
 > [Supported Versions](./SUPPORTED-VERSIONS.md)
 
-> [Changelog & Updates](./CHANGELOG.md)
+> [ESX_RPChat Support/Fix](./ESX-FIX.md)
 
 > [My Contact Options](./CONTACT.md)
