@@ -8,6 +8,7 @@
 > [main.lua](https://pastebin.com/unkeAzcC)
 * Save and Profit 
 
+━━━━━━━━━━━━━━━━━━━━━━━
 ### Additional Fix
 * Under each Register Command in your `esx_rpchat > client > main.lua` and your `esx_rpchat > server > main.lua` Files add this line 
 
@@ -19,3 +20,16 @@
 
 ### Side Note
 > **PLEASE USE ONLY ONE OF THE FIXES PROVIDED IF ONE DOESNT WORK TRY THE NEXT AND ALWAYS MAKE A BACKUP OF THESE FILES BEFORE EDITING THEM**
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+### Documentation Pages
+> [Home](../README.md)
+
+> [Installation Instructions](Docs/INSTALLATION.md)
+
+> [Supported Versions](Docs/SUPPORTED-VERSIONS.md)
+
+> [Changelog & Updates](Docs/CHANGELOG.md)
+
+> [My Contact Options](Docs/CONTACT.md)
