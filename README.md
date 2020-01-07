@@ -24,8 +24,8 @@ And Much More, See the [ScreenShots](https://github.com/TheRealToxicDev/FiveMToD
 
 > 2. [ESX_RPChat Support/Fix](Docs/ESX-FIX.md)
 
-> 3. [Supported Versions]()
+> 3. [Supported Versions](Docs/SUPPORTED-VERSIOMS.md)
 
-> 4. [Changelog & Updates]()
+> 4. [Changelog & Updates](Docs/CHANGELOG.md)
 
 > 5. [My Contact Options](Docs/CONTACT.md)
