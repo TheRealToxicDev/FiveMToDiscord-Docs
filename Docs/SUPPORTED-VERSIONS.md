@@ -29,7 +29,7 @@ Make sure you provide the version you are using.
 
 > [Installation Instructions](Docs/INSTALLATION.md)
 
-> [ESX_RPChat Support/Fix](Docs/ESX_FIX.md)
+> [ESX_RPChat Support/Fix](Docs/ESX-FIX.md)
 
 > [Changelog & Updates](Docs/CHANGELOG.md)
 
