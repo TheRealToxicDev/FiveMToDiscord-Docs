@@ -13,6 +13,7 @@ If you want System Infos, Killing Log and Chat Message notifications.
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 2: Add your Webhook**
 
 If you want System Infos, Killing Log and Chat in three channels, replace the webhooks links I have in lines 1, 2 & 3 with the webhooks link for each channel. Otherwise, create just one Webhook and replace these 3 lines with that webhook
@@ -25,6 +26,7 @@ If you want System Infos, Killing Log and Chat in three channels, replace the we
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 3: Call the Webhook event from another resource**
 
 Simply use this:
@@ -36,6 +38,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 4: Changing the System Avatar**
 
 * Open the config.lua
@@ -44,6 +47,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 5: Changing the User Avatar**
 
 * Open the config.lua
@@ -52,6 +56,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 6: Changing the System Name**
 
 * Open the config.lua
@@ -59,6 +64,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 * Save & Profit
 
 ***
+━━━━━━━━━━━━━━━━━━━━━━━
 
 **STEP 7: Specify Special Commands**
 
@@ -68,6 +74,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 8: Blacklist Commands**
 
 * Open the config.lua
@@ -76,6 +83,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 9: Specify Commands which have their own webhook**
 
 * Open the config.lua
@@ -84,6 +92,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **STEP 10: Specify TTS Commands**
 
 * Open the config.lua
@@ -92,6 +101,7 @@ The boolean always has to be true, when calling DiscordBot:ToDiscord with the ch
 
 ***
 
+━━━━━━━━━━━━━━━━━━━━━━━
 **(How To)'Fix' some commands not printing (Not recommended though)**
 
 * Open the cl_chat.lua in the chat resource
