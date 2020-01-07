@@ -4,6 +4,7 @@ Below is a list of Versions that we currently support.
 We will not provide support for anything marked with a "❎"
 
 ━━━━━━━━━━━━━━━━━━━━━━━
+
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.5.2   |        ☑️          |
