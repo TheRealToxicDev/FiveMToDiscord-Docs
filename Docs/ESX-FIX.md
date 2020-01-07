@@ -18,6 +18,7 @@
 > [Example Register Command Event](https://pastebin.com/V6Xanc5s)
 * Save and Profit 
 
+━━━━━━━━━━━━━━━━━━━━━━━
 ### Side Note
 > **PLEASE USE ONLY ONE OF THE FIXES PROVIDED IF ONE DOESNT WORK TRY THE NEXT AND ALWAYS MAKE A BACKUP OF THESE FILES BEFORE EDITING THEM**
 
