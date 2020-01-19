@@ -7,7 +7,7 @@ We will not provide support for anything marked with a "❎"
 
 | Version | Supported          |
 | ------- | ------------------ |
-|(HotFix) |        ☑️          |
+|1.5.2 (HotFix) |        ☑️          |
 | 1.5.2   |        ☑️          |
 | 1.5.1   |        ☑️          |     
 | 1.5.0   |        ❎          |
